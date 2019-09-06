@@ -1,0 +1,88 @@
+#img1 {
+	border-radius : 90%;}
+
+#bgcolor {
+	background-color:black;
+	margin-left:26%;
+	margin-right:26%;
+	padding:1%;
+	border-radius:15px;
+}
+hr{
+	color:white;
+	margin-left:5%;
+	margin-right:5%;
+}
+p {
+	font-size : 140%;
+	margin: 0px;
+}
+
+body {
+    background-color:black;
+}
+.heading{
+	font-size: 270%;
+}
+
+.button{
+	width:100px;
+	padding:6px;
+	border: 1px solid #3BB9FF;
+	border-radius:8px;
+	background-color:grey;
+	color:white;
+	cursor:pointer;
+	margin:3px;
+}
+
+.resume{
+
+	border-radius: 20px;
+	margin:10px;
+}
+.divboxforsection {
+	background-color :white;
+	margin: 20px;
+	padding:20px;
+	height: 270px;
+	width:400px;
+	overflow:hidden;
+	border:1px solid black;
+	border-radius:15px;
+	box-shadow:0px 0px 10px 5px grey;
+}
+.bgprogress{
+	border-radius : 15px;
+	background-color : gray;
+	margin: 20px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left:10px;
+	padding-right:10px;
+
+}
+.bgdownload{
+	border-radius : 15px;
+	background-color : gray;
+	margin-left: 15%;
+	margin-right:15%;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+.backgroundcolor {
+	border-radius : 15px;
+	background-color : gray;
+	margin: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+.section-tag{
+	margin: 6%;
+}
+
+.social-icons {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+}
